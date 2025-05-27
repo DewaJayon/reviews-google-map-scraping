@@ -6,6 +6,14 @@
 
 ###
 
+<h1 align="left">Requirement</h1>
+
+###
+
+<p align="left">-python<br><br>-- python library --<br>pip install pandas selenium</p>
+
+###
+
 <h1 align="left">Support</h1>
 
 ###
@@ -15,6 +23,8 @@
     <img src="https://storage.sociabuzz.com/storage/img/sociabuzz_logo_square.png" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
 
 <h1 align="left">Language</h1>
 
